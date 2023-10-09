@@ -1,6 +1,5 @@
-/*Rajan Mehrpanah
+/*
  * Having fun with arrays
- * December 6 2020
  */
 package havingFunArrays;
 
@@ -9,7 +8,7 @@ public class arraysProject {
 	public static void main(String[] args) {
 		System.out.println ("Using Methods with Arrays");
 
-        // Generate an array of 30 doubles between 1 and 100 – including 1 and 100 
+        // Generate an array of 30 doubles between 1 and 100 â€“ including 1 and 100 
         double[] firstList = generateArray (30, 1, 100);
 
 	    // Display array, with 10 numbers in each row
